@@ -25,7 +25,7 @@ This app allows users to manage daily tasks with features like categories, prior
 
 ## 🛠️ Technologies Used
 
-* HTML5
+* HTML
 * CSS3
 * JavaScript (Vanilla JS)
 * Local Storage API
